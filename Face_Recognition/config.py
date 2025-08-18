@@ -21,7 +21,7 @@ REGISTRATION_DELAY = 3.0       # Reduced from 4.0 seconds
 # Distance & Pose Validation
 MIN_FACE_SIZE = 80             # 50cm distance
 MAX_FACE_SIZE = 400            # 10cm distance
-MAX_YAW_ANGLE = 40             # Looking towards camera
+MAX_YAW_ANGLE = 40             # Looking towards camera(30), or maybe try 50
 MAX_PITCH_ANGLE = 25
 
 # Registration angle instructions
