@@ -69,4 +69,4 @@ def log_event(event_type, person_id, similarity=None):
 
 def generate_random_id():
     import random
-    return str(random.randint(100000000, 999999999))
+    return str(random.randint(10000, 99999))
